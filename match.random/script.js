@@ -1,4 +1,4 @@
-//função que usa a Match.random para gerar numeros aleatórios.
+/* função que usa a Match.random para gerar numeros aleatórios. */
 var lista = ['item1', 'item2', 'item3'];
 
 for(let i = 0; i < 3; i++) {
