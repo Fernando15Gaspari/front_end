@@ -37,6 +37,7 @@
 .alignCenter  {
     align-items: stretch;
 }
+
 .justifyCenter .item {
     flex: 0;
 }
